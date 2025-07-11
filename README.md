@@ -51,20 +51,26 @@
 
 📡 **Connect with me**
 
-<p align="center">
-  <a href="https://tryhackme.com/p/0xBatman" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mo-ahmed4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" />
-  </a>
-  <a href="https://github.com/m7md-a7md" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=red" />
-  </a>
+<div align="center">
   <a href="https://x.com/_am_77r" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=red" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</p>
+  <a href="www.linkedin.com/in/mo-ahmed4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/m7md_a.7md/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/0xBatman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+  <a href="https://paypal.me/m7mad3?country.x=EG&locale.x=ar_EG" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100070891507650" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 ---
 
@@ -76,6 +82,7 @@
 </p>
 
 ---
+
 
 <h2 align="center">💀 No Logs. No Traces. Just Shells. 💀</h2>
 
