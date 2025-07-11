@@ -1,10 +1,8 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kali-linux/kali/master/data/images/kali-logo.png" width="150px"/>
-</p>
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=👾+Welcome+to+the+Dark+Side;🔐+m7md-a7md+GitHub+Profile;💣+Red+Ops+In+Progress..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=👾+Welcome+to;🔐+m7md-a7md+GitHub+Profile;💣+Red+Ops+In+Progress..." />
 </h1>
 
 ---
@@ -72,4 +70,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1jcHBwY2s5eDNxajY1MXUwMzNzMzVnOWsyZXkzNXd0MmU2bHg0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IdnXibvGRnGd6/giphy.gif" width="300"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </p>
